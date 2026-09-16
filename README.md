@@ -17,14 +17,7 @@
 [![](https://komarev.com/ghpvc/?username=Ahmad-analyst1&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  {
-  "requestId": "order_123",
-  "amount": 100.00,
-  "expiryInMinutes": "10",
-  "remarks": "Payment for order",
-  "upiTransactionType": "COLLECT",
-  "payerVpa": "a.jauhar@ptyes"
-}
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b4ed85b3-47c0-41fc-8cb6-6407b1b40e49" />  a.jauhar@ptyes
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
